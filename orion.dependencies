@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "CyanogenMod/android_device_lge_g3-common",
+    "repository":  "TeamOrion-Devices/device_lge_g3-common",
     "target_path": "device/lge/g3-common",
-    "branch":      "cm-13.0"
+    "branch":      "6.0.1"
   },
   {
     "repository":  "CyanogenMod/android_kernel_lge_g3",
